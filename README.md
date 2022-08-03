@@ -5,6 +5,7 @@ Then chainage, deviation of horizontal and vertical were calculated by reference
 
 **TBM Position Check Result**
 
+_Center Sheild_
 PointID | Actual E | Actual N | Actual Elev | Y | X | Z | Transformed E | Transformed N | Transformed Elev | dE | dN | dElev
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  ---- |
 1 |273006.111 |2107224.288 |-13.351 |-2.572 |-5.902 |0.719 |272999.747 |2107225.262 |-14.069 |-0.003 |0.008 |-0.010|
@@ -35,9 +36,7 @@ PointID | Actual E | Actual N | Actual Elev | Y | X | Z | Transformed E | Transf
 26 | | | |-1.396 |-5.640 |-1.381 | | | | | | |
 27 |273005.867 |2107224.990 |-15.983 |-1.835 |-5.852 |-1.937 |272999.740 |2107225.267 |-14.051 |-0.010 |0.013 |0.007|
 
-_Calculated to Center Sheild_
-
-
+_TBM Position_
 Reference Position |Target unit |Shield articulation |Shield edge
 ---- |----:|----:|----:|
 Chainage |18680.320 |18678.068 |18674.498|
@@ -46,5 +45,3 @@ Ver.deviation |0.036 |0.024 |0.005|
 Easting |273005.377 |273003.200 |272999.749|
 Northing |2107226.746 |2107226.169 |2107225.254|
 Elevation |-14.056 |-14.057 |-14.059|
-
-_Calculated to TBM Position_
