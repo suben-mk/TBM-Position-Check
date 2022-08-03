@@ -37,6 +37,7 @@ PointID | Actual E | Actual N | Actual Elev | Y | X | Z | Transformed E | Transf
 
 _Calculated to Center Sheild_
 
+
 Reference Position |Target unit |Shield articulation |Shield edge
 ---- |----:|----:|----:|
 Chainage |18680.320 |18678.068 |18674.498|
