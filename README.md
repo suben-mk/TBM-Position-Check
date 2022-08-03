@@ -1,7 +1,7 @@
 # TBM-Position-Check
-**TBM Position** was calculated from local TBM coordinate system (Y, X, Z) and global coordinate system (Easting, Northing, Elevation).
+**TBM Position** was calculated from Local TBM coordinate system (Y, X, Z) and Global coordinate system (Easting, Northing, Elevation).
 By transformation to TBM center which was 3 reference points (Easting, Northing, Elevation), Target unit, Shield articulation and Shield edge.
-Then chainage, deviation of horizontal and vertical were calculated by reference points, accordance to tunnel axis.
+Then Chainage, Deviation of Horizontal and Vertical were calculated by reference points, accordance to tunnel axis.
 
 **TBM Position Check Result**
 
