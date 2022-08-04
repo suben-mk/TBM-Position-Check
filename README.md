@@ -49,3 +49,9 @@ Elevation |-14.056 |-14.057 |-14.059|
 _TBM Position of Transformed Reference Points by TBM Navigation Software_
 ![2022-08-03_184525](https://user-images.githubusercontent.com/89971741/182600652-f2878d9d-9239-4578-acd5-a2a5409a91cb.jpg)
 
+**Position of Reference Points**
+![2022-08-04_111700](https://user-images.githubusercontent.com/89971741/182763159-5372bd70-fd51-408b-9b9b-b556d0e725f0.jpg)
+
+**Measured Reference Points of TBM**
+![2022-08-04_112634](https://user-images.githubusercontent.com/89971741/182763668-fb01fd12-9a44-4833-b0ee-942989c03c3d.jpg)
+
