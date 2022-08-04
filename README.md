@@ -5,7 +5,7 @@ Then Chainage, Deviation of Horizontal and Vertical were calculated by reference
 
 **TBM Position Check Result**
 
-_Center Sheild Transformation_
+_Transformation of Center Sheild_
 PointID | Actual E | Actual N | Actual Elev | Y | X | Z | Transformed E | Transformed N | Transformed Elev | dE | dN | dElev
 ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |  ---- |
 1 |273006.111 |2107224.288 |-13.351 |-2.572 |-5.902 |0.719 |272999.747 |2107225.262 |-14.069 |-0.003 |0.008 |-0.010|
